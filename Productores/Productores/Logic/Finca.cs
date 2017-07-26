@@ -19,9 +19,17 @@ namespace Productores.Logic
         public Finca(int pid, string pnombre, int parea, int pidProductor)
         {
             this.id = pid;
-<<<<<<< HEAD
-<<<<<<< HEAD
+
             this.nombre = "Hayrom Blanco";
+
+           this.nombre = “Armando Alfonzo Ramirez Echenique”;
+
+            this.nombre = "Alfredo puto";
+
+
+            this.nombre = "Ricardoputo";
+            this.nombre = "Alfredo Valverde";
+
 
             this.area = parea;
             this.idProductor = pidProductor;

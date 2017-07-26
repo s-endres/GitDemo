@@ -19,9 +19,9 @@ namespace Productores.Interface
         protected void Button1_Click(object sender, EventArgs e)
         {
             Finca finca = new Finca();
-            finca.nombre = txtNombre.Text;
-            finca.area = Int32.Parse(txtArea.Text);
-            finca.idProductor = Int32.Parse(txtIdProductor.Text);
+            finca.nombre =  lblNombre;
+            finca.area = lblArea;
+            finca.idProductor = lblIdProductor;
 
             FincaDA.Agregar(finca);
         }
