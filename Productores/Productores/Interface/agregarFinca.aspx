@@ -12,6 +12,7 @@
     <div>
     
 
+<<<<<<< HEAD
         <asp:Labe2 ID="lblNombre" runat="server" Text="Nombre"></asp:Label>
         <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox> <br />
 
@@ -19,6 +20,7 @@
         <asp:TextBox ID="txtArea" runat="server"></asp:TextBox> <br />
 
         <asp:Labe4 ID="lblIdProductor" runat="server" Text="Id del Productor"></asp:Label>
+
         <asp:TextBox ID="txtIdProductor" runat="server"></asp:TextBox> 
         <br />
         <asp:Button ID="Button1" runat="server" Text="Guardar" OnClick="Button1_Click" />
