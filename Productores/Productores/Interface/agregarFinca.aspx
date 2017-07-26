@@ -14,12 +14,15 @@
 
 
         <asp:Label ID="lblNombre" runat="server" Text="Nombre"></asp:Label>
+
         <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox> <br />
 
-        <asp:Label ID="lblArea" runat="server" Text="Area"></asp:Label>
+        <asp:Labe3 ID="lblArea" runat="server" Text="Area"></asp:Label>
         <asp:TextBox ID="txtArea" runat="server"></asp:TextBox> <br />
 
+
         <asp:Label ID="lblIdProductor" runat="server" Text="Id del Productor"></asp:Label>
+
 
         <asp:TextBox ID="txtIdProductor" runat="server"></asp:TextBox> 
         <br />
