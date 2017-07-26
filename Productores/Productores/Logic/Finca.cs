@@ -20,7 +20,10 @@ namespace Productores.Logic
         {
             this.id = pid;
 
+
            this.nombre = “Armando Alfonzo Ramirez Echenique”;
+
+            this.nombre = "Alfredo puto";
 
             this.nombre = “tu nombre completo”; 
 
