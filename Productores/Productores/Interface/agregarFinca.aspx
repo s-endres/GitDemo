@@ -13,13 +13,13 @@
     
 
 <<<<<<< HEAD
-        <asp:Labe2 ID="lblNombre" runat="server" Text="Nombre"></asp:Label>
+        <asp:Labe2 ID="Labe2" runat="server" Text="Nombre"></asp:Label>
         <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox> <br />
 
-        <asp:Labe3 ID="lblArea" runat="server" Text="Area"></asp:Label>
+        <asp:Labe3 ID="Label3" runat="server" Text="Area"></asp:Label>
         <asp:TextBox ID="txtArea" runat="server"></asp:TextBox> <br />
 
-        <asp:Labe4 ID="lblIdProductor" runat="server" Text="Id del Productor"></asp:Label>
+        <asp:Labe4 ID="Label4" runat="server" Text="Id del Productor"></asp:Label>
 
         <asp:TextBox ID="txtIdProductor" runat="server"></asp:TextBox> 
         <br />
