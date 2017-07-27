@@ -12,8 +12,8 @@
     <div>
     
 
-<<<<<<< HEAD
         <asp:Labe2 ID="Label2" runat="server" Text="Nombre"></asp:Label>
+
         <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox> <br />
 
         <asp:Labe3 ID="Label3" runat="server" Text="Area"></asp:Label>
